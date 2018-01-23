@@ -14,4 +14,3 @@ $dbName = Database name
 $dbHost = Database Host
 $dbUsername = Username
 $dbUserPassword = Password
-
